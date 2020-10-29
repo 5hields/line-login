@@ -11,7 +11,7 @@ $ go get -u -v github.com/5hields/line-login
 
 ## _Example_
 ```go
-impoet (
+import (
     "fmt"
     ll "github.com/5hields/line-login"
 )
